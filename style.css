@@ -1,4 +1,6 @@
 button{
     width: 15px;
     height: 20px;
+body{
+    background: gray;
 }
